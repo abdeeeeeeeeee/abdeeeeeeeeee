@@ -17,7 +17,6 @@ I work full-time. Everything on this profile is from my own time — side projec
 - 🛠️ **Currently building:** local AI stack, sports data pipelines, home lab automations
 - 🌱 **Currently learning:** offensive security, Linux internals
 - 💬 **Ask me about:** Linux, networking, self-hosted LLMs, Python, security
-- 🎮 **For fun:** Apex Legends, FiveM modding, football data
 
 ---
 
